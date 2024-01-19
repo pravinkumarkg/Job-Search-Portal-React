@@ -1,0 +1,50 @@
+[
+    {
+        "image": "job-role-img-1.png",
+        "title": "Senior Product Designer", 
+        "company": "Techmint , On-site", 
+        "location": "Bengaluru, India", 
+        "salary": "50K - 70K", 
+        "status": "rejected"
+    },
+    {
+        "image": "job-role-img-2.png",
+        "title": "Junior PHP Developer", 
+        "company": "Unacademy , work from home", 
+        "location": "Bengaluru, India", 
+        "salary": "10K - 20K", 
+        "status": "in process"
+    },
+    {
+        "image": "job-role-img-3.png",
+        "title": "Junior Web Designer", 
+        "company": "Techmint , On-site", 
+        "location": "Bengaluru, India", 
+        "salary": "10K - 30K", 
+        "status": "in process"
+    },
+    {
+        "image": "job-role-img-1.png",
+        "title": "Senior UI/UX Designer", 
+        "company": "Techmint", 
+        "location": "Bengaluru, India", 
+        "salary": "60K - 75K", 
+        "status": "selected"
+    },
+    {
+        "image": "job-role-img-2.png",
+        "title": "Senior UI Developer", 
+        "company": "Udemy , on site", 
+        "location": "Bengaluru, India", 
+        "salary": "70K - 90K", 
+        "status": "selected"
+    },
+    {
+        "image": "job-role-img-3.png",
+        "title": "Junior Tester", 
+        "company": "Techmint , On-site", 
+        "location": "Bengaluru, India", 
+        "salary": "10K - 15K", 
+        "status": "in process"
+    }
+]

@@ -1,0 +1,93 @@
+// Color Variables
+$black: #000000;
+$white: #ffffff;
+$blue: #22506C;
+$yellow: #FFD600;
+$green: #2CC369;
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-blue {
+    background-color: $blue;
+}
+
+.card-wrapper  {
+    box-shadow: 8px 2px 30px 0px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    border-radius: 4px !important;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.App {
+
+    .material-icons-outlined {
+        font-size: 30px;
+    }
+
+    .header-wrapper {
+        grid-template-columns: 0.8fr 2fr 0.8fr 1fr;
+
+        .logo-image-wrapper {
+
+            img {
+                width: 190px;
+            }
+        }
+
+        .search-wrapper {
+            
+            .search-icon {
+                left: 5%;
+            }
+            
+            input {
+                outline: 0;
+                border-radius: 13px;
+                border-color: transparent;
+            }
+
+            .material-icons-outlined {
+                top: 15%;
+                left: 2%;
+            }
+        }
+
+        .profile-image-wrapper {
+
+            img {
+                max-width: 60px;
+                min-height: 60px;
+            }
+        }
+    }
+
+    .sidebar-wrapper {
+        padding: 50px 0;
+    }
+
+    .job-role {
+        width: 250px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .Dropdown-arrow {
+        top: 18px;
+    }
+}
